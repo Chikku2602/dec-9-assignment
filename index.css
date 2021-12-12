@@ -1,0 +1,15 @@
+body{
+    background-color:cornsilk;
+}
+div{
+    display:flex ;
+    justify-content: center;
+    margin-top: 200px;
+}
+div>input{
+    margin: 10px;
+    font-size: 20px;
+    padding: 10px;
+    border-radius: 10px;
+    border-color: rgb(22, 20, 17);
+}
